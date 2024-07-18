@@ -1,0 +1,11 @@
+Nama : Muhammad Rizky Fauzi
+
+Riwayat Pengerjaan :
+1. Modles/member.php
+2. Controllers/MemberController.php
+3. create.blade.php (Member)
+4. edit.blade.php (Member)
+5. detail.blade.php (Member)
+6. index.blade.php (Member)
+7. memberPDF.blade.php
+8. ExcelMember.blade.php
